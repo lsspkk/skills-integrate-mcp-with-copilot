@@ -50,27 +50,6 @@ section {
   max-width: 500px;
 }
 
-#filter-toolbar {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  align-items: center;
-  margin-bottom: 20px;
-}
-
-#filter-toolbar label {
-  font-weight: bold;
-  margin-right: 5px;
-}
-
-#filter-toolbar select,
-#filter-toolbar input {
-  padding: 5px;
-  border-radius: 3px;
-  border: 1px solid #ccc;
-}
-}
-
 section h3 {
   margin-bottom: 20px;
   padding-bottom: 10px;
